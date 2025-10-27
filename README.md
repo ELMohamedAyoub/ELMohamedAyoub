@@ -38,9 +38,6 @@ Here are some of the projects I'm particularly proud of. You can find more on my
   <img src="https://github-readme-stats.vercel.app/api?username=ELMohamedAyoub&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" alt="Ayoub's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ELMohamedAyoub/ELMohamedAyoub/output/snake.svg" alt="Snake Contribution Graph" />
-</p>
 
 ---
 
