@@ -6,12 +6,6 @@ I'm a passionate engineer and scientist with a strong focus on building intellig
 
 ---
 
-### 🏆 My GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ELMohamedAyoub&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🛠️ My Tech Stack
 
 Here are some of the technologies I'm proficient in:
@@ -42,7 +36,6 @@ Here are some of the projects I'm particularly proud of. You can find more on my
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ELMohamedAyoub&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" alt="Ayoub's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMohamedAyoub&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
