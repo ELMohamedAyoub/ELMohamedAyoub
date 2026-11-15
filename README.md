@@ -2,7 +2,7 @@
 
 **I help businesses put AI to work, so they win more sales and grow revenue without growing headcount.**
 
-I come in, sit with your team, find where AI can make or save you money, then build it and put it into daily use. Casablanca, on site across Morocco and remote everywhere else. French, Arabic, English.
+I come in, sit with your team, find where AI can make or save you money, then build it and put it into daily use. Remote, working with teams in the US and worldwide. English, French, Arabic.
 
 **Free 30-minute AI audit → [elmohamedayoub.github.io](https://elmohamedayoub.github.io)**
 
